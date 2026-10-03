@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Danica! 👋
 
-<!--
-**danicacrobles9/danicacrobles9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💼 Future Human Resource Professional | BSBA-HRM Student at PUP
+Welcome to my GitHub profile! I am a Human Resource Management student at the **Polytechnic University of the Philippines (PUP)**. I use this space as a digital repository to document my academic projects, showcase my strategic toolkits, and organize case studies related to organizational development, labor law, and modern workforce management.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Academic & Professional Focus
+- **Strategic Management:** Framework analysis (Porter's Five Forces, SWOT, PESTLE) applied to industry case studies.
+- **Labor Standards:** Clean summaries and tracking of Philippine Labor Laws and employee benefit compliance (including Solo Parent welfare regulations).
+- **HR Operations & Tech:** Modernizing HR workflows through technical collaboration tools and structured documentation.
+
+---
+
+### 🛠️ Featured Repositories & Portfolios
+- 📑 **[PUP-HRM-Coursework](https://github.com):** Core major subjects documentation, bridging course notes, and case study files.
+- 📖 **[BPO-Onboarding-Manual]():** A mock standard operating procedure (SOP) manual showcasing structured corporate training pipelines.
+
+---
+
+### 📬 Connect With Me
+- ✉️ **Email:** mariadanicatheresecrobles@iskolarngbayan.pup.edu.ph
