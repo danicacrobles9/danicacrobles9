@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am a Human Resource Management student at the **
 
 ### 🛠️ Featured Repositories & Portfolios
 - 📑 **[PUP-HRM-Coursework](https://github.com):** Core major subjects documentation, bridging course notes, and case study files.
-- 📖 **[BPO-Onboarding-Manual]():** A mock standard operating procedure (SOP) manual showcasing structured corporate training pipelines.
+- 📖 **[BPO-Onboarding-Manual](https://github.com/danicacrobles9/BPO-Onboarding-Manual):** A mock standard operating procedure (SOP) manual showcasing structured corporate training pipelines.
 
 ---
 
